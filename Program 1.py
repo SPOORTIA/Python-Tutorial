@@ -1,1 +1,1 @@
-print ("hello  gani")
+print ("sky  is pink")
